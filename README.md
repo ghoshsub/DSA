@@ -26,4 +26,20 @@
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/ghoshsub/DSA/tree/master/1004-max-consecutive-ones-iii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ghoshsub/DSA/tree/master/0547-number-of-provinces) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ghoshsub/DSA/tree/master/0547-number-of-provinces) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ghoshsub/DSA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/ghoshsub/DSA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
